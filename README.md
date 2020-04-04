@@ -5,34 +5,45 @@ A team of researchers from Qatar University, Doha, Qatar and the University of D
 Research Team members and their affiliation:
 
 (1) Muhammad E. H. Chowdhury, PhD (mchowdhury@qu.edu.qa)
+
 Department of Electrical Engineering, Qatar University, Doha-2713, Qatar.
 
 (2) Tawsifur Rahman (tawsifurrahman.1426@gmail.com)
+
 Department of Biomedical Physics & Technology, University of Dhaka, Dhaka-1000, Bangladesh.
 
 (3) Amith Khandakar (amitk@qu.edu.qa)
+
 Department of Electrical Engineering, Qatar University, Doha-2713, Qatar.
 
 (4) Rashid Mazhar, MD
+
 Thoracic Surgery, Hamad General Hospital, Doha-3050, Qatar.
 
 (5) Muhammad Abdul Kadir, PhD
+
 Department of Biomedical Physics & Technology, University of Dhaka, Dhaka-1000, Bangladesh.
 
 (6) Zaid Bin Mahbub, PHD
+
 Department of Mathematics and Physics, North South University, Dhaka-1229, Bangladesh.
 
 (7) Khandakar R. Islam, MD
+
 Department of Orthodontics, Bangabandhu Sheikh Mujib Medical University, Dhaka-1000, Bangladesh.
 
 (8) Muhammad Salman Khan, PhD
+
 Department of Electrical Engineering (JC), University of Engineering and Technology, Peshawar-25120, Pakistan.
 
 (9) Prof. Atif Iqbal, PhD
+
 Department of Electrical Engineering, Qatar University, Doha-2713, Qatar.
 
 (10) Nasser Al-Emadi, PhD
+
 Department of Electrical Engineering, Qatar University, Doha-2713, Qatar.
 
 (11) Prof. Mamun Bin Ibne Reaz. PhD
+
 Department of Electrical, Electronic & Systems Engineering, Universiti Kebangsaan Malaysia, Bangi, Selangor 43600, Malaysia.
